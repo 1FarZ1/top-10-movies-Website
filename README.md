@@ -11,7 +11,39 @@
 
 ## Features
 
+- Add Movies
+- Delete Movies
+- Updates Movies
+- Rate Movies
+- Cool Design 
+- full functionnality
+- Error Handling
 
+
+## Resources
+
+- The Movies Db Api :
+- Flask Python
+- Python
+- FlaskWtf
+- FlaskForm
+- Bootstrap
+- html
+- css
+- SqlLite
+- sQLAlchemey
 
 
 ## How to use
+- press on The Add button to add a new Movie
+- Search Your Movie By Entering its name
+- choose the version of Movie You want
+- add a rating and Your review for the movie
+- and here we go
+- in case of deleting or updating a movie just hover on the movie and yeah
+
+## Support
+- Support me by Staring this Repository
+
+##  Contrubuting
+- All Contrubutions are Welcomed
