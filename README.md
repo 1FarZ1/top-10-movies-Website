@@ -1,6 +1,6 @@
 # top-10-movies-Website
 
-# Save Your Top Movies By Just One Click
+# Save Your Top Movies By Just One Click.
 
 ## ScreenShots
 ![image](https://user-images.githubusercontent.com/91225280/179946462-f1a644c9-9780-474a-a5d4-3419766c030d.png)
